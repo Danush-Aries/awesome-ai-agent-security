@@ -165,6 +165,7 @@ MCP lets agents connect to external tools and data. Every tool description and t
 
 ### PII / Secrets & Sandboxing
 
+- 🛠️ [Darkmoon Privacy Gateway](https://github.com/ASCIT31/Dark-Moon) — Keeps real sensitive values (IPs, hosts, credentials, paths) from ever reaching the model by substituting deterministic placeholders and rehydrating them locally, with anti-exfiltration controls. GPL-3.0.
 - 🛠️ [Presidio (Microsoft)](https://github.com/microsoft/presidio) — Detect and redact PII across text, images, and structured data. Apache-2.0.
 - 🛠️ [E2B](https://github.com/e2b-dev/e2b) — Open-source cloud sandbox for safely executing LLM-generated code. Apache-2.0.
 
