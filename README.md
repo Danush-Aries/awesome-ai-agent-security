@@ -149,6 +149,7 @@ MCP lets agents connect to external tools and data. Every tool description and t
 - 🛠️ [promptmap](https://github.com/utkusen/promptmap) — Automated injection scanner for your own LLM apps; white-box and black-box modes.
 - 🛠️ [Giskard](https://github.com/Giskard-AI/giskard-oss) — Testing framework detecting injection, hallucination, bias, and toxicity. Apache-2.0.
 - 🛠️ [DeepTeam](https://github.com/confident-ai/deepteam) — Red-teaming framework simulating jailbreaks and multi-turn attacks across 40+ probes.
+- 🛠️ [Redcells](https://github.com/awdemos/redcell) — Automated adversarial testing for OpenAI-compatible LLMs. Submit a target model, pick an intent (prompt injection, jailbreak, data leakage, misinformation), and run an iterative attack→refine pipeline with per-layer prompts, responses, and judge scores. API-first with dashboard and CI/CD integration.
 
 ### Runtime Guardrails & Firewalls
 
