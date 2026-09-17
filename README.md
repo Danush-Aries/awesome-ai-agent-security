@@ -152,6 +152,7 @@ MCP lets agents connect to external tools and data. Every tool description and t
 
 ### Runtime Guardrails & Firewalls
 
+- 🛠️ [affixio-agent-guard](https://github.com/AffixIO/affixio-agent-guard) — Local-first guard that checks tool calls against policy BEFORE execution (TypeScript, zero deps, zero network). Pairs with AffixIO host-side ACTION attestation ([affixio](https://www.npmjs.com/package/affixio), [docs](https://www.affix-io.com/agent-trust/)).
 - ⭐🛠️ [LLM Guard (Protect AI)](https://github.com/protectai/llm-guard) — 15 input + 20 output scanners: injection, PII, secrets, toxicity. MIT.
 - 🛠️ [NeMo Guardrails (NVIDIA)](https://github.com/NVIDIA-NeMo/Guardrails) — Programmable input/dialog/retrieval/output rails for conversational LLMs. Apache-2.0.
 - 🛠️ [Guardrails AI](https://github.com/guardrails-ai/guardrails) — Input/output guards with 100+ validators and structured generation. Apache-2.0.
