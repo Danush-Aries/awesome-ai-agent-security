@@ -216,6 +216,7 @@ Prompt injection is not theoretical. These are documented, real compromises.
 - [Slack AI data exfiltration via indirect injection](https://www.promptarmor.com/resources/data-exfiltration-from-slack-ai-via-indirect-prompt-injection) — Malicious instructions in a public channel leak private API keys.
 - [Cursor IDE injection & RCE (CVE-2025-54135/59944)](https://www.lakera.ai/blog/cursor-vulnerability-cve-2025-59944) — RCE via malicious repo prompts and MCP server impersonation.
 - [Claude.ai data exfiltration ("Claudy Day")](https://www.darkreading.com/vulnerabilities-threats/claudy-day-trio-flaws-expose-claude-users-to-data-theft) — A three-flaw chain exfiltrating conversation history with no user interaction.
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) — Open database of 354 sourced AI-agent security records from 2025 onward (prompt injection, MCP, agent supply chain, rogue agents), each flagged for whether harm was confirmed or only demonstrated.
 
 ---
 
