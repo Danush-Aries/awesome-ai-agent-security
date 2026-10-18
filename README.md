@@ -156,6 +156,7 @@ MCP lets agents connect to external tools and data. Every tool description and t
 - 🛠️ [NeMo Guardrails (NVIDIA)](https://github.com/NVIDIA-NeMo/Guardrails) — Programmable input/dialog/retrieval/output rails for conversational LLMs. Apache-2.0.
 - 🛠️ [Guardrails AI](https://github.com/guardrails-ai/guardrails) — Input/output guards with 100+ validators and structured generation. Apache-2.0.
 - 🛠️ [Vigil-LLM](https://github.com/deadbits/vigil-llm) — Injection/jailbreak detector using vector DB, YARA signatures, and canary tokens.
+- [TraceGuard](https://github.com/ve-loma/traceguard) — Local runtime guard for AI agents: deterministic pre-execution blocking of dangerous tool calls, a three-state circuit breaker for retry loops, and action-level snapshot rollback so completed file changes can be undone. Encrypted hash-chained audit log; no network calls in the guard path.
 
 ### Detectors & Classifiers
 
